@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T07:39:18.088Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="v7hjvnGl71oL8jj0mSxJ" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T07:23:22.340Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="S-kt1fFugaDbfGKAL_5x" version="13.8.0" type="github">
   <diagram id="pQHBSO-0nNE2tIokIZgf" name="Page-1">
     <mxGraphModel dx="1037" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="MM1q7H7qt56yQdssVvX5-28" value="Det här är tråkigt, och vem behöver en tutorial ändå (gå ut på ett äventyr)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="chh0maS3dwQLHSVipDx1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MM1q7H7qt56yQdssVvX5-30" target="MM1q7H7qt56yQdssVvX5-34">
+        <mxCell id="chh0maS3dwQLHSVipDx1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MM1q7H7qt56yQdssVvX5-30" target="MM1q7H7qt56yQdssVvX5-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MM1q7H7qt56yQdssVvX5-30" value="sov" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="MM1q7H7qt56yQdssVvX5-38" value="Det där ser läskigt ut" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MM1q7H7qt56yQdssVvX5-40" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MM1q7H7qt56yQdssVvX5-40" value="otur, en krokodil äter upp dig" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MM1q7H7qt56yQdssVvX5-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MM1q7H7qt56yQdssVvX5-42" target="MM1q7H7qt56yQdssVvX5-44" edge="1">
@@ -115,7 +115,7 @@
         <mxCell id="MM1q7H7qt56yQdssVvX5-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MM1q7H7qt56yQdssVvX5-42" target="MM1q7H7qt56yQdssVvX5-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="chh0maS3dwQLHSVipDx1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MM1q7H7qt56yQdssVvX5-42" target="chh0maS3dwQLHSVipDx1-2">
+        <mxCell id="chh0maS3dwQLHSVipDx1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MM1q7H7qt56yQdssVvX5-42" target="chh0maS3dwQLHSVipDx1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MM1q7H7qt56yQdssVvX5-42" value="Mamma blir besviken" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -166,7 +166,7 @@
         <mxCell id="MM1q7H7qt56yQdssVvX5-61" value="Den gamla säger att alla ankungarna är fina förutom en. Hon pekar med vingen och säger att du är ful" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="1865" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="chh0maS3dwQLHSVipDx1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MM1q7H7qt56yQdssVvX5-63" target="chh0maS3dwQLHSVipDx1-8">
+        <mxCell id="chh0maS3dwQLHSVipDx1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MM1q7H7qt56yQdssVvX5-63" target="chh0maS3dwQLHSVipDx1-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MM1q7H7qt56yQdssVvX5-63" value="Bit henne" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -181,19 +181,19 @@
         <mxCell id="MM1q7H7qt56yQdssVvX5-69" value="Mamma tycker att du är fin" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="2180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="chh0maS3dwQLHSVipDx1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="chh0maS3dwQLHSVipDx1-2" target="chh0maS3dwQLHSVipDx1-5">
+        <mxCell id="chh0maS3dwQLHSVipDx1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="chh0maS3dwQLHSVipDx1-2" target="chh0maS3dwQLHSVipDx1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="chh0maS3dwQLHSVipDx1-2" value="stanna kvar" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="chh0maS3dwQLHSVipDx1-2" value="stanna kvar" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="980" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="chh0maS3dwQLHSVipDx1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="chh0maS3dwQLHSVipDx1-5" target="MM1q7H7qt56yQdssVvX5-57">
+        <mxCell id="chh0maS3dwQLHSVipDx1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="chh0maS3dwQLHSVipDx1-5" target="MM1q7H7qt56yQdssVvX5-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="chh0maS3dwQLHSVipDx1-5" value="&lt;span&gt;De simmar bort och mamma tittar tillbaka med jämna mellanrum tills de försvinner runt hörnet&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="chh0maS3dwQLHSVipDx1-5" value="&lt;span&gt;De simmar bort och mamma tittar tillbaka med jämna mellanrum tills de försvinner runt hörnet&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="965" y="1100" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="chh0maS3dwQLHSVipDx1-8" value="Hon dör och du blir kungen av ankorna" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="chh0maS3dwQLHSVipDx1-8" value="Hon dör och du blir kungen av ankorna" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="1880" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
