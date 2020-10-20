@@ -28,7 +28,7 @@ try {
     req.params.id
   );
 
-  res.json({
+  res.render('index', {
     status: 200,
     story: story,
     links: links
