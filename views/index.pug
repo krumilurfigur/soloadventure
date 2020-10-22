@@ -1,9 +1,11 @@
 extends layout
 
 block content
-  h1= story[0].body
-  ul
-    each link in links
-      li 
-        a(href=link.target_id)= link.description
+  .card(style='width: 50rem;')
+    .card-body
+      h5.card-title= story[0].body
+      each link in links 
+        a(href=link.target_id)
+          button.btn.btn-warning(type='button')
+            p= link.description
       
