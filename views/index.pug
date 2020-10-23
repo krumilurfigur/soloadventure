@@ -1,11 +1,13 @@
 extends layout
 
 block content
-  .card(style='width: 50rem;')
-    .card-body
-      h5.card-title= story[0].body
-      each link in links 
-        a(href=link.target_id)
-          button.btn.btn-warning(type='button')
-            p= link.description
+  .container.w-50
+    .card
+      .card-body
+        h5.card-title= story[0].body
+      div.d-flex.justify-content-between.w-100
+        each link in links 
+          .container.w-50.d-flex.justify-content-center
+            a.btn.btn-warning(href=link.target_id)= link.description
+
       

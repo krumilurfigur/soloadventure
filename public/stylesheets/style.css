@@ -1,15 +1,23 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; 
-  background-color: #00D900;
-}
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("/images/lake.png");
+  background-size: cover; }
 
 a {
-  color: #00B7FF; 
-}
+  color: #00B7FF;
+  margin: auto; }
+
+button {
+  max-width: 30%; }
+
+h5 {
+  float: left;
+  width: 100%;
+  color: white; }
 
 .card {
-  background-color: #9900FF;
-}
+  align-items: center;
+  background-color: #0077BB; }
 
 /*# sourceMappingURL=style.css.map */
